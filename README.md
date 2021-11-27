@@ -20,6 +20,6 @@ This project is one I worked on with a few other colleagues. We try to predict w
 
 
 ### Optical Communication using a laser
-This experiment covers the complete communication setup involving a laser diode. I set up a signal generator using a [Basys3 FPGA]() and used a laser driver to provide a signal to a laser diode. An optical receiver is used to receiver the signal which is then observed using an oscilloscope. Details of the whole experiment are provided [here]() including all the parts and component details. 
+This experiment covers the complete communication setup involving a laser diode. I set up a signal generator using a Basys3 FPGA and used a laser driver to provide a signal to a laser diode. An optical receiver is used to receiver the signal which is then observed using an oscilloscope. Details of the whole experiment are provided [here]() including all the parts and component details. 
 
 
