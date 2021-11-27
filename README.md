@@ -16,7 +16,7 @@ In this project I use _Pytorch_ to implement an object detection model. I fine-t
 
 
 #### Churn Modelling 
-This project is one I worked on with a few other colleagues. We try to predict whether or not a customer leaves a certain institution based on some factors available in the dataset. The [dataset](), was carefully analyzed, and decisions were made in order to increase the model performance. Two models (Logistic Regression and Random Forest) are coompared in different scenarios and the Random Forest model is chosen as the better option. Model **_accuracy**_ is considered, and other metrics such as **_precision**_ and **_recall**_ are also explored.
+This project is one I worked on with a few other colleagues. We try to predict whether or not a customer leaves a certain institution based on some factors available in the dataset. The [dataset](), was carefully analyzed, and decisions were made in order to increase the model performance. Two models (Logistic Regression and Random Forest) are coompared in different scenarios and the Random Forest model is chosen as the better option. Model **_accuracy_** is considered, and other metrics such as **_precision_** and **_recall_** are also explored.
 
 
 ### Optical Communication using a laser
