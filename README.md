@@ -12,7 +12,7 @@ To investigate the impact of convolution layers on the Image classification task
 
 
 #### Object Detection
-In this project I use _Pytorch_ to implement an object detection model. I fine-tune a pre-trained **Resnet50 Faster RCNN** model and train it on the [Trash-ICRA19]() dataset. The main aim of the project is to be able to detect the presence of plastic in the underwater environment. The model should be able to detect the difference between an underwater organism (labelled _bio_ in the dataset), a piece of plastic (labelled _plastic_), and a remote operated vehicle (_rov_ in the dataset). I go through the whole implementation in [this post](), and the code for the project is found over [here](). As mentioned earlier, I used _Pytorch_ in this implementation of this project.
+In this project I use _Pytorch_ to implement an object detection model. I fine-tune a pre-trained **Resnet50 Faster RCNN** model and trained it on the [Trash-ICRA19]() dataset. The main aim of the project is to be able to detect the presence of plastic in the underwater environment. The model should be able to detect the difference between an underwater organism (labelled _bio_ in the dataset), a piece of plastic (labelled _plastic_), and a remote operated vehicle (_rov_ in the dataset). I go through the whole implementation in [this post](), and the code for the project is found over [here](). As mentioned earlier, I used _Pytorch_ in this implementation of this project.
 
 
 #### Churn Modelling 
