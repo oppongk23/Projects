@@ -3,8 +3,8 @@ Some of the projects are still ongoing as I try to update them as I learn newer 
 
 
 
-#### Image Classification using an Artificial Neural Network: 
-In this project, I try to tackle a very basic yet important task in Computer Vision, _**Image Classification**_, using a  very simple Artificial Neural Network (ANN). The work revolves around concepts such as artificial neurons and how they learn from data, how they tend to generalize poorly i.e _overfit_ to training data, and how we can use methods such as regularization and dropouts to improve the generalization performance of the model. The models were trained on the [CIFAR10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html). I use mostly _Tensorflow_ and _Keras_ for this implementation, but there is also the usage of _Numpy_ and _Matplotlib_ at various points in the project. The walkthrough of the model can be found [here](https://oppongk23.github.io/Image-Classification-ANN/), and the notebook can be found over [here](https://github.com/oppongk23/Image-Classification-ANN/blob/main/ANN_Assignment.ipynb).
+#### [Image Classification using an Artificial Neural Network](https://oppongk23.github.io/Image-Classification-ANN/): 
+In this project, I try to tackle a very basic yet important task in Computer Vision, _**Image Classification**_, using a  very simple Artificial Neural Network (ANN). The work revolves around concepts such as artificial neurons and how they learn from data, how they tend to generalize poorly i.e _overfit_ to training data, and how we can use methods such as regularization and dropouts to improve the generalization performance of the model. The models were trained on the CIFAR10 Dataset. I use mostly _Tensorflow_ and _Keras_ for this implementation, but there is also the usage of _Numpy_ and _Matplotlib_ at various points in the project. The walkthrough of the model can be found [here](https://oppongk23.github.io/Image-Classification-ANN/), and the notebook can be found over [here](https://github.com/oppongk23/Image-Classification-ANN/blob/main/ANN_Assignment.ipynb).
 
 
 #### Image Classification using Convolutional Neural Networks (CNNs):
